@@ -1,7 +1,7 @@
 {
     "title": "Portfolio- Chinedu Ohawgu",
     "name": "portfolio",
-    "version": "5.0.1",
+    "version": "0.0.1-alpha-1",
     "description": "A Portfolio for Ohagwu Chinedu Anthony containing projects worked on contact information of me",
     "keywords": [
         "css",
@@ -16,11 +16,8 @@
         "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues",
         "email": "feedback@startbootstrap.com"
     },
-    "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "license": "",
+    "author": "Portfolio",
     "repository": {
         "type": "git",
         "url": "https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio.git"
