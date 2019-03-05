@@ -146,7 +146,22 @@
 
     <!-- Custom scripts for this template -->
     <script src="dist/js/stylish-portfolio.min.js"></script>
-
+    <script>
+    $(document).ready(function(){
+        $(".fancybox").fancybox({
+                openEffect: "none",
+                closeEffect: "none"
+            });
+            
+            $(".zoom").hover(function(){
+                
+                $(this).addClass('transition');
+            }, function(){
+                
+                $(this).removeClass('transition');
+            });
+        });
+    </script>
   </body>
 
 </html>
