@@ -1,3 +1,9 @@
+# Deploy using surge
+npm install --global surge
+You may need to preface this command with sudo
+
+Now, run surge from within any directory, to publish that directory onto the web.
+
 # [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
 
 [Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
